@@ -1,0 +1,7 @@
+{
+  "name": "com.vis2k.kcp2k",
+  "displayName": "kcp2k",
+  "version": "1.39.0",
+  "description": "C# KCP based on the original C kcp.",
+  "license": "MIT"
+}
