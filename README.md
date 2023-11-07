@@ -7,6 +7,12 @@ Developed for [Mirror Networking](https://github.com/MirrorNetworking/Mirror).
 
 Questions & support on [Mirror Networking Discord](https://discord.gg/xVW4nU4C34).
 
+## Fork reason
+
+Added Unity package manager (UPM) support.
+
+Use https://github.com/Voresh/kcp2k-package.git?path=kcp2k/kcp2k#upm to get the latest version.
+
 # Features
 * Kcp.cs based on kcp.c v1.7, line-by-line translation to C#
 * Heavy test coverage
